@@ -21,4 +21,4 @@ function verificaFibonacci(numero) {
 
 console.log(verificaFibonacci(21)); // Usando 21, a saída vai ser: "O número 21 pertence à sequência de Fibonacci."
 
-console.log(verificaFibonacci(999)) // Usando 999, a saída vai ser: "O número 999 não pertence a sequência de Fibonacci." 
+console.log(verificaFibonacci(999)); // Usando 999, a saída vai ser: "O número 999 não pertence a sequência de Fibonacci."

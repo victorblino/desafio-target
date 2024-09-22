@@ -1,5 +1,7 @@
+// 5) Escreva um programa que inverta os caracteres de um string.
+
 function inverteString(input) {
-    return input.split('').reverse().join('');
+  return input.split("").reverse().join("");
 }
 
 const minhaString = "Hello world!";
